@@ -3,6 +3,18 @@
 
 ---
 
+## 📊 Dashboard Preview
+
+![Global Development Insights Dashboard](images/dashboard_preview.png)
+
+*Power BI dashboard analyzing global economic, health, and technology indicators using World Bank data.*
+
+
+---
+
+---
+
+
 ## 📌 Project Overview
 
 This project is an **end-to-end data analytics solution** that analyzes global **economic, health, trade, poverty, environment, and technology indicators** using data from the **World Bank Open API**.
